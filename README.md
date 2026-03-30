@@ -13,3 +13,6 @@ An interactive drum kit built with images and sounds. Each drum component—snar
 1. Clone the repository:
    ```bash
    git clone https://github.com/Vineeta19-prog/drum-kit.git
+
+
+![Drum Kit Demostration](https://github.com/Vineeta19-prog/Drum-Kit-/commit/12b13a56bea64c06365267666f7c4a24e0bef5d5)
